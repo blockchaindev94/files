@@ -2,5 +2,5 @@
   "name": "Loser Coin",
   "symbol": "LOSER",
   "description": "This is the loser's coin.",
-  "image": "https://github.com/blockchaindev94/files/blob/96b46311004b2bc99ff96849678177d609762e7d/public/LoserCoin.png"
+  "image": "https://raw.githubusercontent.com/blockchaindev94/files/refs/heads/main/public/LoserCoin.png"
 }
